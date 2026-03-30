@@ -1,6 +1,6 @@
 <div align="center">
 
-# Charles Edeki — Data Analytics Portfolio
+# Charles Edeki - Data Analytics Portfolio
 
 **Data Analyst & Educator**
 
