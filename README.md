@@ -8,13 +8,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-edeki/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/CharlesEdek)
 
-*Turning raw data into decisions — across healthcare, aviation, logistics, and operations.*
+*Turning raw data into decisions - across healthcare, aviation, logistics, and operations.*
 
 </div>
 
 ## About Me
 
-I'm a data analyst with 5+ years of combined experience in analysis, visualisation, and teaching. My work sits at the intersection of technical rigour and practical impact — I don't just build dashboards, I build the analytical case around them.
+I'm a data analyst with 5+ years of combined experience in analysis, visualisation, and teaching. My work sits at the intersection of technical rigour and practical impact - I don't just build dashboards, I build the analytical case around them.
 
 My background spans Python, SQL, Power BI, and Excel, with a growing focus on data engineering. I've trained over 1,500 learners, facilitated workshops for 200+ global participants, and delivered end-to-end solutions for compliance, operations, and executive reporting.
 
@@ -37,7 +37,7 @@ An 18-month analysis of 9,216 ER visits. The headline: a 50% admission rate, a s
 ### ✈️ Airline Delays & Cancellations - Performance Analysis
 > *Power BI · DAX · Power Query · Aviation Analytics*
 
-Across 1.9 million US domestic flights, fewer than 6 in 10 passengers experienced an on-time departure. This project breaks down why — by carrier (a 29-point performance gap between best and worst), by cancellation cause (weather vs. carrier-driven), and by day of week (Monday is structurally the worst day to fly, and the data explains exactly why).
+Across 1.9 million US domestic flights, fewer than 6 in 10 passengers experienced an on-time departure. This project breaks down why - by carrier (a 29-point performance gap between best and worst), by cancellation cause (weather vs. carrier-driven), and by day of week (Monday is structurally the worst day to fly, and the data explains exactly why).
 
 📂 [View Project →](https://github.com/CharlesEdeki/Airline-Delays-Cancellations-Power-BI-Dashboard)
 &nbsp;·&nbsp; 📁 [Google Drive](https://drive.google.com/drive/folders/1UfHnQZ_E-g8u_TeuUnw-RmZM2Lo2jhIE?usp=sharing)
