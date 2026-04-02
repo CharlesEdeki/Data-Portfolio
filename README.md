@@ -67,7 +67,7 @@ A full analytical case study on 2,760 FedEx deliveries from Power BI dashboard t
 | Project | Tools | Description |
 |---|---|---|
 | Global COVID-19 Analysis | Python, Pandas, Seaborn | Cleaned and visualised global case, mortality, and recovery trajectories across countries |
-| Customer Churn Prediction | Scikit-learn, Pandas | Binary classification model with full EDA, feature engineering, and ROC-AUC evaluation |
+| [Customer Churn Prediction](https://github.com/CharlesEdeki/customer-churn-prediction) | Scikit-learn, Pandas | Binary classification model with full EDA, feature engineering, and ROC-AUC evaluation |
 | National Budget & Security Analytics | Power BI, Excel | Public policy analytics on Nigerian national budget allocation and security spending trends |
 | ETL Pipeline - Financial Reporting | Python, SQL, Power Query | End-to-end automated ETL workflow feeding executive Power BI dashboards |
 
